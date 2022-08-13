@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">project2</string>
+    <string name="clothing">Clothing</string>
+    <string name="Bags">Bags</string>
+    <string name="Sneakers">Sneakers</string>
+    <string name="acess">accessories</string>
+</resources>
